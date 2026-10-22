@@ -9,10 +9,10 @@ This is my Week 1 assignment for the CEAM Computer Vision team. I built a small 
 Each step is in its own file. You can run any of them like this:
 
 ```
-python3 pixel_ops.py
+python3 Pixel-wise.py
 ```
 
-(Replace the file name with the step you want to run.)
+(We can replace the file name with the step that needs to run.)
 
 ## Files
 
